@@ -1,0 +1,11 @@
+"paintball"
+{
+
+  "base"        "base"
+  "title"       "Paintball Deathmatch"
+  "version"     "0.9.1"
+  "maps"        "^sk_"
+  "menusystem"      "1"
+
+
+}
